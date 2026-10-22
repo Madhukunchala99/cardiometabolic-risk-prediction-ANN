@@ -1,0 +1,21 @@
+{
+    "selected_model": "Regularized Sequential ANN",
+    "threshold": 0.45922309160232544,
+    "input_features": [
+        "age_years",
+        "sex_female",
+        "bmi",
+        "systolic_bp_mmHg",
+        "diastolic_bp_mmHg",
+        "total_cholesterol_mg_dL",
+        "fasting_glucose_mg_dL",
+        "resting_heart_rate_bpm",
+        "smoking_current",
+        "family_history_cardiometabolic",
+        "physical_activity_level",
+        "sleep_hours",
+        "stress_level_1_to_5"
+    ],
+    "processed_feature_count": 16,
+    "tensorflow_version": "2.21.0"
+}
